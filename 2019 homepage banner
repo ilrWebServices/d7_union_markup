@@ -1,0 +1,105 @@
+<div class="cu-banner--video cu-banner cu-component--desktop">
+  <div class="cu-banner__header">
+    <h2 class="cu-banner__heading"></h2>
+  </div>
+  <div class="cu-banner__content--align-bottom cu-banner__content">
+    <div class="cu-grid--3col cu-grid">
+      <div class="cu-card--icon cu-card">
+        <div class="cu-card__content">
+        <a class="cu-icon--inline-centered cu-icon cu-icon--tower cu-icon--link" href="/programs/undergraduate-degree-program/undergraduate-admissions">
+        <svg class="cu-icon__image" width="2.5em" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+          <title>Cornell University Tower Icon</title>
+          <use href="/sites/all/themes/ilr_theme/images/icons.svg#tower" />
+        </svg>
+      <h2 class="cu-icon__label cu-heading">Undergraduate Admissions</h2></a>
+
+  </div>
+</div>
+<div class="cu-card--icon cu-card">
+  <div class="cu-card__content">
+  <a class="cu-icon--inline-centered cu-icon cu-icon--mortarboard cu-icon--link" href="/programs/graduate-degree-programs">
+  <svg class="cu-icon__image" width="2.5em" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+    <title>Mortarboard Icon</title>
+    <use href="/sites/all/themes/ilr_theme/images/icons.svg#mortarboard" />
+  </svg>
+  <h2 class="cu-icon__label cu-heading">Graduate Programs</h2></a>
+  </div>
+</div>
+
+<div class="cu-card--icon cu-card">
+  <div class="cu-card__content">
+    <a class="cu-icon--inline-centered cu-icon cu-icon--handshake cu-icon--link" href="/programs/professional-programs">
+      <svg class="cu-icon__image" width="2.5em" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+      <title>Handshake Icon</title>
+      <use href="/sites/all/themes/ilr_theme/images/icons.svg#handshake" />
+</svg>
+  <h2 class="cu-icon__label cu-heading">Professional Programs</h2></a>
+
+  </div>
+</div>
+
+
+</div>
+
+  </div>
+  <div class="cu-banner__media">
+  <video class="cu-video" src="https://www.dropbox.com/s/2oee7izfxsl16ah/Hero%20clips%20for%20web%20-%20FINAL%20-%20Aug%202019.mp4?raw=1" autoplay loop muted></video>
+  </div>
+</div>
+
+<div class="cu-banner--video cu-banner cu-component--mobile">
+  <div class="cu-banner__header">
+    <h2 class="cu-banner__heading"></h2>
+  </div>
+  <div class="cu-banner__content">
+        <div class="framed framed--right">
+      <h2 class="cu-heading cu-heading--strong">It takes <span>work</span> to make an impact</h2>
+      <div class="play">
+  <div class="cu-icon--inline cu-icon cu-icon--play" role="button" aria-pressed="false">
+  <svg class="cu-icon__image" width="4em" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+    <title>Play video Icon</title>
+    <use href="/sites/all/themes/ilr_theme/images/icons.svg#play" />
+  </svg>
+  <div class="cu-icon__label">Watch Video</div></div>
+      </div>
+    </div>
+  </div>
+  <div class="cu-banner__media">
+    <video class="cu-video" src="https://www.dropbox.com/s/2oee7izfxsl16ah/Hero%20clips%20for%20web%20-%20FINAL%20-%20Aug%202019.mp4?raw=1" poster="http://placeimg.com/1600/900/arch"></video>
+  </div>
+</div>
+<div class="cu-grid--3col cu-grid cu-component--mobile">
+  <div class="cu-card--with-aside cu-card grid-item">
+    <div class="cu-card__content">
+      <h2 class="cu-card__heading cu-heading--strong">Undergraduate Admissions</h2>
+      <p>The ILR major focusses on the study of people and policies in the workplace. Explore our wide range of academic interests today.</p>
+      <a class="cu-button--overlay cu-button" href="">Explore</a>
+    </div>
+    <div class="cu-card__media">
+      <img  src="https://placeimg.com/700/440/people" alt="Undergraduate Admissions" class="cu-image" />
+      <div class="cu-image--blurred" style="--cu-bg-image: url(https://placeimg.com/700/440/people)"></div>
+    </div>
+  </div>
+  <div class="cu-card--with-aside cu-card grid-item">
+    <div class="cu-card__content">
+      <h2 class="cu-card__heading cu-heading--strong">Graduate Programs</h2>
+      <p>From students straight out of college, to professionals working for over 20 years &mdash; we have your program.</p>
+      <a class="cu-button--overlay cu-button" href="">Explore</a>
+    </div>
+    <div class="cu-card__media">
+      <img  src="https://placeimg.com/700/440/nature" alt="Graduate Programs" class="cu-image" />
+      <div class="cu-image--blurred" style="--cu-bg-image: url(https://placeimg.com/700/440/nature)"></div>
+    </div>
+  </div>
+  <div class="cu-card--with-aside cu-card grid-item">
+    <div class="cu-card__content">
+      <h2 class="cu-card__heading cu-heading--strong">Professional Programs</h2>
+      <p>You can choose from a wide range of professional and academic programs, grounded in practice and focussed on real-world application.</p>
+      <a class="cu-button--overlay cu-button" href="">Explore</a>
+    </div>
+    <div class="cu-card__media">
+      <img  src="https://placeimg.com/700/440/tech" alt="Professional Programs" class="cu-image" />
+      <div class="cu-image--blurred" style="--cu-bg-image: url(https://placeimg.com/700/440/tech)"></div>
+    </div>
+  </div>
+</div>
