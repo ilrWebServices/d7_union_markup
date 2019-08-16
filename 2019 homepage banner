@@ -17,12 +17,12 @@
 </div>
 <div class="cu-card--icon cu-card">
   <div class="cu-card__content">
-  <a class="cu-icon--inline-centered cu-icon cu-icon--mortarboard cu-icon--link" href="/programs/graduate-degree-programs">
+  <div class="cu-icon--inline-centered cu-icon cu-icon--mortarboard cu-icon--link" href="/programs/graduate-degree-programs">
   <svg class="cu-icon__image" width="2.5em" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
     <title>Mortarboard Icon</title>
     <use href="/sites/all/themes/ilr_theme/images/icons.svg#mortarboard" />
   </svg>
-  <h2 class="cu-icon__label cu-heading">Graduate Programs</h2></a>
+  <h2 class="cu-icon__label cu-heading">Graduate Programs</h2></div>
   </div>
 </div>
 
@@ -68,7 +68,7 @@
     <video class="cu-video" src="https://www.dropbox.com/s/2oee7izfxsl16ah/Hero%20clips%20for%20web%20-%20FINAL%20-%20Aug%202019.mp4?raw=1" poster="http://placeimg.com/1600/900/arch"></video>
   </div>
 </div>
-<div class="cu-grid--3col cu-grid cu-component--mobile">
+<div class="cu-grid cu-component--mobile">
   <div class="cu-card--with-aside cu-card grid-item">
     <div class="cu-card__content">
       <h2 class="cu-card__heading cu-heading--strong">Undergraduate Admissions</h2>
