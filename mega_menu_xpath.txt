@@ -1,0 +1,17 @@
+About ILR:
+/html/body/header/div[2]/div/div[2]/div/div/div/ul/li[1]/div/div
+
+Programs & Admissions: 
+/html/body/header/div[2]/div/div[2]/div/div/div/ul/li[2]/div/div
+
+Student Experience: 
+/html/body/header/div[2]/div/div[2]/div/div/div/ul/li[3]/div/div
+
+Faculty & Research: 
+/html/body/header/div[2]/div/div[2]/div/div/div/ul/li[4]/div/div
+
+Public Engagement: 
+/html/body/header/div[2]/div/div[2]/div/div/div/ul/li[5]/div/div
+
+Alumni: 
+/html/body/header/div[2]/div/div[2]/div/div/div/ul/li[6]/div/div
